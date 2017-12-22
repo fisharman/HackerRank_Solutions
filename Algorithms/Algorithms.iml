@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/Implementation/Beautiful Days at the Movies/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Beautiful Days at the Movies/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Bon Appetit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Circular Array Rotation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Climbing the Leaderboard/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Counting Valleys/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Day of the Programmer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Designer PDF Viewer/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Drawing Book/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Electronics Shop/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Find Digits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Jumping on the Clouds_Revisited/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Magic Square/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Migratory Birds/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Picking Numbers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Save the Prisoner/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Sequence Equation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Sock Merchant/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Utopian Tree/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Implementation/Viral Advertisig/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>

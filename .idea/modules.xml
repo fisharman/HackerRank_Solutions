@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Strings/Anagram/Anagram.iml" filepath="$PROJECT_DIR$/Algorithms/Strings/Anagram/Anagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Append and Delete/Append and Delete.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Append and Delete/Append and Delete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Beautiful Days at the Movies/Beautiful Days at the Movies.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Beautiful Days at the Movies/Beautiful Days at the Movies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Big Sorting/Big Sorting.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Big Sorting/Big Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Bon Appetit/Bon Appetit.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Bon Appetit/Bon Appetit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Circular Array Rotation/Circular Array Rotation.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Circular Array Rotation/Circular Array Rotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Climbing the Leaderboard/Climbing the Leaderboard.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Climbing the Leaderboard/Climbing the Leaderboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Bit Manipulation/Counter Game/Counter Game.iml" filepath="$PROJECT_DIR$/Algorithms/Bit Manipulation/Counter Game/Counter Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Counting Sort 1/Counting Sort 1.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Counting Sort 1/Counting Sort 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Counting Sort 2/Counting Sort 2.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Counting Sort 2/Counting Sort 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Counting Sort 3/Counting Sort 3.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Counting Sort 3/Counting Sort 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Counting Valleys/Counting Valleys.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Counting Valleys/Counting Valleys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Cut the Sticks/Cut the Sticks.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Cut the Sticks/Cut the Sticks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Day of the Programmer/Day of the Programmer.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Day of the Programmer/Day of the Programmer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Designer PDF Viewer/Designer PDF Viewer.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Designer PDF Viewer/Designer PDF Viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Drawing Book/Drawing Book.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Drawing Book/Drawing Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Electronics Shop/Electronics Shop.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Electronics Shop/Electronics Shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Equalize the Array/Equalize the Array.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Equalize the Array/Equalize the Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Find Digits/Find Digits.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Find Digits/Find Digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Insertion Sort - Part 1/Insertion Sort - Part 1.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Insertion Sort - Part 1/Insertion Sort - Part 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Insertion Sort - Part 2/Insertion Sort - Part 2.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Insertion Sort - Part 2/Insertion Sort - Part 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Data Structures/Java 1D Array (Part 2)/Java 1D Array (Part 2).iml" filepath="$PROJECT_DIR$/Java/Data Structures/Java 1D Array (Part 2)/Java 1D Array (Part 2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java Stack/Java Stack.iml" filepath="$PROJECT_DIR$/Java/Java Stack/Java Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Jumping on the Clouds_Revisited/Jumping on the Clouds_Revisited.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Jumping on the Clouds_Revisited/Jumping on the Clouds_Revisited.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Bit Manipulation/Lonely Integer/Lonely Integer.iml" filepath="$PROJECT_DIR$/Algorithms/Bit Manipulation/Lonely Integer/Lonely Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Magic Square/Magic Square.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Magic Square/Magic Square.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Bit Manipulation/Maximizing XOR/Maximizing XOR.iml" filepath="$PROJECT_DIR$/Algorithms/Bit Manipulation/Maximizing XOR/Maximizing XOR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Migratory Birds/Migratory Birds.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Migratory Birds/Migratory Birds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Non-Divisible Subset/Non-Divisible Subset.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Non-Divisible Subset/Non-Divisible Subset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Picking Numbers/Picking Numbers.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Picking Numbers/Picking Numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Queens Attack 2/Queens Attack 2.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Queens Attack 2/Queens Attack 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Quicksort 1 - Partition/Quicksort 1 - Partition.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Quicksort 1 - Partition/Quicksort 1 - Partition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Quicksort 2 - Sorting/Quicksort 2 - Sorting.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Quicksort 2 - Sorting/Quicksort 2 - Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Quicksort In-Place/Quicksort In-Place.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Quicksort In-Place/Quicksort In-Place.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Recursion/Recursive Digit Sum/Recursive Digit Sum.iml" filepath="$PROJECT_DIR$/Algorithms/Recursion/Recursive Digit Sum/Recursive Digit Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Running Time of Quicksort/Running Time of Quicksort.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Running Time of Quicksort/Running Time of Quicksort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Save the Prisoner/Save the Prisoner.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Save the Prisoner/Save the Prisoner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Sequence Equation/Sequence Equation.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Sequence Equation/Sequence Equation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Sock Merchant/Sock Merchant.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Sock Merchant/Sock Merchant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Strings/Super Reduced String/Super Reduced String.iml" filepath="$PROJECT_DIR$/Algorithms/Strings/Super Reduced String/Super Reduced String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/The Full Counting Sort/The Full Counting Sort.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/The Full Counting Sort/The Full Counting Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Recursion/The Power Sum/The Power Sum.iml" filepath="$PROJECT_DIR$/Algorithms/Recursion/The Power Sum/The Power Sum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Strings/Two Characters/Two Characters.iml" filepath="$PROJECT_DIR$/Algorithms/Strings/Two Characters/Two Characters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Utopian Tree/Utopian Tree.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Utopian Tree/Utopian Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Viral Advertising/Viral Advertising.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Viral Advertising/Viral Advertising.iml" />
+    </modules>
+  </component>
+</project>
