@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Strings/Anagram/Anagram.iml" filepath="$PROJECT_DIR$/Algorithms/Strings/Anagram/Anagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Append and Delete/Append and Delete.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Append and Delete/Append and Delete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Recursion/Arithmetic Expressions/Arithmetic Expressions.iml" filepath="$PROJECT_DIR$/Algorithms/Recursion/Arithmetic Expressions/Arithmetic Expressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Beautiful Days at the Movies/Beautiful Days at the Movies.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Beautiful Days at the Movies/Beautiful Days at the Movies.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Big Sorting/Big Sorting.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Big Sorting/Big Sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Bon Appetit/Bon Appetit.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Bon Appetit/Bon Appetit.iml" />
@@ -21,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Electronics Shop/Electronics Shop.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Electronics Shop/Electronics Shop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Equalize the Array/Equalize the Array.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Equalize the Array/Equalize the Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Find Digits/Find Digits.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Find Digits/Find Digits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Search/Ice Cream Parlor/Ice Cream Parlor.iml" filepath="$PROJECT_DIR$/Algorithms/Search/Ice Cream Parlor/Ice Cream Parlor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Insertion Sort - Part 1/Insertion Sort - Part 1.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Insertion Sort - Part 1/Insertion Sort - Part 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Insertion Sort - Part 2/Insertion Sort - Part 2.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Insertion Sort - Part 2/Insertion Sort - Part 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Data Structures/Java 1D Array (Part 2)/Java 1D Array (Part 2).iml" filepath="$PROJECT_DIR$/Java/Data Structures/Java 1D Array (Part 2)/Java 1D Array (Part 2).iml" />
@@ -31,6 +33,7 @@
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Bit Manipulation/Maximizing XOR/Maximizing XOR.iml" filepath="$PROJECT_DIR$/Algorithms/Bit Manipulation/Maximizing XOR/Maximizing XOR.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Migratory Birds/Migratory Birds.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Migratory Birds/Migratory Birds.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Non-Divisible Subset/Non-Divisible Subset.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Non-Divisible Subset/Non-Divisible Subset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Recursion/Password Cracker/Password Cracker.iml" filepath="$PROJECT_DIR$/Algorithms/Recursion/Password Cracker/Password Cracker.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Picking Numbers/Picking Numbers.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Picking Numbers/Picking Numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Implementation/Queens Attack 2/Queens Attack 2.iml" filepath="$PROJECT_DIR$/Algorithms/Implementation/Queens Attack 2/Queens Attack 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Quicksort 1 - Partition/Quicksort 1 - Partition.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Quicksort 1 - Partition/Quicksort 1 - Partition.iml" />
